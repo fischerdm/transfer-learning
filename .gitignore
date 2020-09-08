@@ -1,0 +1,36 @@
+# OS generated files
+.DS_Store
+model/.DS_Store
+model_fine_tuned/.DS_Store
+test/.DS_Store
+train/.DS_Store
+valid/.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/feature_extraction-checkpoint.ipynb
+.ipynb_checkpoints/feature_extraction_old-checkpoint.ipynb
+
+# Data
+train/bike/*
+train/car/*
+train/motorcycle/*
+train/other/*
+train/truck/*
+train/van/*
+
+valid/bike/*
+valid/car/*
+valid/motorcycle/*
+valid/other/*
+valid/truck/*
+valid/van/*
+
+test/bike/*
+test/car/*
+test/motorcycle/*
+test/other/*
+test/truck/*
+test/van/*
+
+# Other files
+Transfer_learning.rtf
