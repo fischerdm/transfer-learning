@@ -7,8 +7,7 @@ train/.DS_Store
 valid/.DS_Store
 
 # Jupyter checkpoints
-.ipynb_checkpoints/feature_extraction-checkpoint.ipynb
-.ipynb_checkpoints/feature_extraction_old-checkpoint.ipynb
+.ipynb_checkpoints/*
 
 # Data
 train/bike/*
